@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyWidget.iml" filepath="$PROJECT_DIR$/EasyWidget.iml" />
+      <module fileurl="file://E:/intellijidea/anim/anim.iml" filepath="E:/intellijidea/anim/anim.iml" />
+      <module fileurl="file://E:/android_app/logindemo/logindemo.iml" filepath="E:/android_app/logindemo/logindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pickPicture/pickPicture.iml" filepath="$PROJECT_DIR$/../pickPicture/pickPicture.iml" />
+    </modules>
+  </component>
+</project>
